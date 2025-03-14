@@ -1,3 +1,4 @@
 env/
 .env
 logs/
+ragqa_arena_tech_examples.jsonl
