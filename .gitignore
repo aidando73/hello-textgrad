@@ -3,3 +3,4 @@ env/
 logs/
 ragqa_arena_tech_examples.jsonl
 ragqa_arena_tech_corpus.jsonl
+mlruns/
